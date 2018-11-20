@@ -9,7 +9,7 @@
   "profile": {
     "name": "typicode"
   },
-  "customer-card-applications" : [
+  "customer-card-application" : [
         {
             "applicationNo": "1234546",
             "customerName": "Mohammad Ahmed",
